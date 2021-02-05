@@ -1,0 +1,60 @@
+body {
+  background: url(../images/background.jpg) no-repeat center bottom fixed;
+  margin: 15% 10% 15% 10%;
+  background-size: cover;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+.cont {
+  background-color: rgba(222, 76, 138, 0.6);
+  box-shadow: 0 0 10px rgba(152, 255, 152, 0.8);
+  text-shadow: 0 0 10px rgba(152, 255, 152, 0.8);
+  padding: 1%;
+}
+
+.navbar {
+  height: 70px;
+  padding: 0.5%;
+  font-family: Luminari, fantasy;
+  text-shadow: 0 0 10px rgba(152, 255, 152, 0.8);
+}
+
+.userPhoto {
+  width: 300px;
+  height: auto;
+  border-radius: 30px;
+  box-shadow: 0 0 10px rgba(152, 255, 152, 0.8);
+}
+
+.nameOfuser {
+  font-size: 30px;
+  font-family: Luminari, fantasy;
+  text-shadow: 0 0 10px rgba(152, 255, 152, 0.8);
+}
+
+.infOfuser {
+  font-size: 25px;
+  font-family: Luminari, fantasy;
+  text-shadow: 0 0 10px rgba(152, 255, 152, 0.8);
+}
+
+.persInfofUser {
+  font-family: Luminari, fantasy;
+  font-size: 18px;
+  text-shadow: 0 0 10px rgba(152, 255, 152, 0.8);
+}
+
+.butt {
+  margin: 2%;
+  text-shadow: 0 0 5px rgba(152, 255, 152, 0.8);
+  box-shadow: 0 0 5px rgba(152, 255, 152, 0.9);
+  background-color: rgba(222, 76, 138, 0.8): border: none;
+  border-radius: 10px;
+  font-size: 15px;
+  font-family: Luminari, fantasy;
+  padding: 1%;
+}

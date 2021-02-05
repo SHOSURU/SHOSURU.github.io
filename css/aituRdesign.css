@@ -1,0 +1,60 @@
+body {
+  background: url(../images/background.jpg) no-repeat center bottom fixed;
+  margin: 15% 10% 15% 10%;
+  background-size: cover;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  -o-user-select: none;
+  user-select: none;
+}
+
+#text {
+  background-color: rgba(222, 76, 138, 0.6);
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(152, 255, 152, 0.8);
+  margin-top: 10%;
+  margin-bottom: 25px;
+  padding: 20px 30px 20px 30px;
+  font-family: Luminari, fantasy;
+  text-shadow: 0 0 15px rgba(152, 255, 152, 0.8);
+  color: rgb(0, 123, 167);
+}
+
+.txt {
+  font-size: 25px;
+}
+
+#form {
+  background-color: rgba(222, 76, 138, 0.6);
+  border-radius: 10px;
+  box-shadow: 0 0 15px rgba(152, 255, 152, 0.8);
+  color: rgb(0, 123, 167);
+  padding: 20px 30px 20px 30px;
+  font-family: Luminari, fantasy;
+  font-size: 20px;
+  text-shadow: 0 0 5px rgba(152, 255, 152, 0.8);
+}
+
+.input {
+  text-shadow: 0 0 15px rgba(152, 255, 152, 0.8);
+  box-shadow: 0 0 10px rgba(152, 255, 152, 0.9);
+  border: none;
+  border-radius: 10px;
+}
+
+.butt {
+  text-shadow: 0 0 5px rgba(152, 255, 152, 0.8);
+  box-shadow: 0 0 5px rgba(152, 255, 152, 0.9);
+  border: none;
+  border-radius: 10px;
+  padding: 1%;
+}
+
+.opt {
+  text-shadow: 0 0 10px rgba(152, 255, 152, 0.8);
+  box-shadow: 0 0 10px rgba(152, 255, 152, 0.9);
+  border: none;
+  border-radius: 10px;
+  padding: 1%;
+}
